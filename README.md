@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TheSamu74/TheSamu74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hola chicos 😊, este es un repositorio que esta creado con el fin compartir información del del mundo de la informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Puntos de interes:
+
+Programación.
+
+Hardware.
+
+Software.
+
+Aprovecho para hacer Span de nuestra tienda Online💻 :https://conivanshop.com/
